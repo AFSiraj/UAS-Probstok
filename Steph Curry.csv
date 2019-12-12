@@ -1,4 +1,4 @@
-PLAYER,PLAY TYPE,MADE,SHOT TYPE,VTM,HTM,GAME DATE,PERIOD,SHOT DISTANCE (FT)
+PLAYER,PLAY_TYPE,MADE,SHOT_TYPE,VTM,HTM,GAME_DATE,PERIOD,SHOT_DISTANCE (FT)
 Stephen Curry,Jump Shot,Missed Shot,3PT Field Goal,LAC,GSW,4/13/2019,1,26
 Stephen Curry,Driving Layup Shot,Missed Shot,2PT Field Goal,LAC,GSW,4/13/2019,1,3
 Stephen Curry,Running Pull-Up Jump Shot,Made Shot,3PT Field Goal,LAC,GSW,4/13/2019,1,29
