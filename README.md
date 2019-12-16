@@ -9,10 +9,10 @@ Content:
   - Berisi data mengenai file rangkaian tembakan yang dilakukan oleh pemain NBA selama babak playoff 2019. Diambil dari Stats.NBA.com 
   (Penjelasan lebih lanjut dapat dilihat di PPT)
   
-- **Link Google Colab
+- **Link Google Colab**
   - Berisi link menuju source code tempat pengolahan data dari CSV
   
-- **PPT
+- **PPT**
   - Berisi penjelasan dan analisis dari data yang telah diolah pada Jupyter notebook melalui Google Colab
 
 
