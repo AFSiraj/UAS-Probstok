@@ -4,7 +4,7 @@ Repository Github untuk memenuhi tugas Ujian Akhir Semester Probabilitas dan Sto
 Membahas mengenai statistik dari teori "Hot Hand" yang memiliki hipotesis bahwa pemain basket akan lebih besar kemungkinan untuk
 memasukkan bola apabila tembakan sebelumnya berhasil dibandingkan saat tembakan sebelumnya gagal.
 
--**Pengolahan data**
+- **Pengolahan data**
   - Metode pengolahan data secara lengkap dapat dilihat di link berikut
   - https://colab.research.google.com/drive/1WT3cC-IMZc9KOJI0ogLfMY4tmUsXKtzQ
   
