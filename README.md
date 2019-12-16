@@ -12,8 +12,9 @@ memasukkan bola apabila tembakan sebelumnya berhasil dibandingkan saat tembakan 
   - Berisi data mengenai file rangkaian tembakan yang dilakukan oleh pemain NBA selama babak playoff 2019. Diambil dari Stats.NBA.com 
   (Penjelasan lebih lanjut dapat dilihat di PPT)
   
-- **PPT**
+- **PPT dan Infografis**
   - Berisi penjelasan dan analisis dari data yang telah diolah pada Jupyter notebook melalui Google Colab
+  - File Infografis pdf full res yang dipost di Instagram
 
 
   
